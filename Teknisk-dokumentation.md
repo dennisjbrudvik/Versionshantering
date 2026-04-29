@@ -8,3 +8,8 @@
 4. Välj vilken form du vill använda för att gå med (google, mail)
 5. Välj användarnamn
 6. Slutför
+
+## Säkerhet
+1. Tänk på att välja säkra inloggningsmetoder (lösenord, användarnamn)
+2. Ställ in en 2FA (Tvåfaktorautentisering)
+
